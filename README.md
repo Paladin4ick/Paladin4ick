@@ -17,8 +17,8 @@ I am a passionate developer with expertise in Python and JavaScript. My enthusia
 
 ## 🌟 Active Projects
 
-[![Readme Card](https://github.com/Paladin4ick/Mir-Tankov-News-Parser)]
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github.com/Paladin4ick/Mir-Tankov-News-Parser)](https://github.com/Paladin4ick/Mir-Tankov-News-Parser)
+
 
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paladin4ick)](https://git.io/streak-stats)
