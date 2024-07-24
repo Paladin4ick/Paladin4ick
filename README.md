@@ -1,32 +1,34 @@
-<h1 align="center">Хей, ты попал на страничку <a href="https://t.me/paladin4ick" target="_blank">(っ◔◡◔)っ ♥ Paladin4ick ♥</a>
-<img src="https://media1.tenor.com/m/YHAcUxXBSyQAAAAC/snek-snake-dance.gif" height="170"/></h1>
+# Welcome to Paladin4ick's Corner! 🌟
 
+<h1 align="center">
+  <a href="https://t.me/paladin4ick" target="_blank">(っ◔◡◔)っ ♥ Paladin4ick ♥</a>
+  <img src="https://media1.tenor.com/m/YHAcUxXBSyQAAAAC/snek-snake-dance.gif" height="170"/>
+</h1>
 
-<h3>  Привет! 👋 Я увлеченный Python-разработчик, специализирующийся на создании ботов для Telegram и Discord с использованием фреймворков, таких как <strong>Aiogram</strong> и <strong>Disnake</strong>. Мне нравится создавать инновационные решения, которые улучшают пользовательский опыт и оптимизируют процессы.</h3>
+## 👋 Hello!
+
+I am a passionate developer with expertise in Python and JavaScript. My enthusiasm lies in crafting innovative solutions that not only enhance user experience but also streamline processes. 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paladin4ick)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paladin4ick&show_icons=true&theme=radical)
 
+## 🚀 What I Do
 
-  <h2>Чем я занимаюсь</h2>
+- **Advanced Features Implementation**: Utilizing frameworks like Aiogram and Disnake to bring advanced functionalities to life.
+- **Third-Party Integration**: Enhancing applications by integrating robust APIs and services.
+- **Collaborative Development**: Working with teams to ensure timely delivery of high-quality solutions.
+- **Continuous Learning**: Always on the lookout for new technologies to stay ahead in the tech landscape.
 
-  <ui><li> Разрабатываю индивидуальных ботов для Telegram и Discord</li>
-  <li> Внедряю продвинутые функции с использованием фреймворков Aiogram и Disnake</li>
-  <li> Интегрирую сторонние API и сервисы для расширенного функционала</li>
-  <li> Сотрудничаю с командами для своевременной поставки качественных решений</li>
-  <li> Постоянно обучаюсь и исследую новые технологии, чтобы быть на шаг впереди</li></ui>
+## 🌟 Active Projects
 
+- [Mir-Tankov-News-Parser](https://github.com/Paladin4ick/Mir-Tankov-News-Parser)
 
-<h2>Активные проекты</h2>
+## 📬 Get in Touch
 
+- **Email**: ivandiubko@gmail.com
+- **Telegram**: [@paladin4ick_code](https://t.me/paladin4ick_code)
+- **Website**: Coming soon
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paladin4ick&repo=Nanimia-anime-bot-telegram-)](https://github.com/Paladin4ick/Nanimia-anime-bot-telegram-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paladin4ick&repo=IT-Batya)](https://github.com/Paladin4ick/IT-Batya)
+Feel free to reach out to me through any of the channels above. I'm always open to discussing new projects, collaborations, or just sharing knowledge.
 
-<h2>Свяжитесь Со Мной:</h2>
-<ul>
-  <li>📧 Электронная почта: ivandiubko@gmail.com</li>
-  <li>💬 Telegram: <a href="https://t.me/paladin4ick">@Paladin4ick</a></li>
-  <li>🌐 Вебсайт: В разработке</li>
-  <li>🐦 Discord: <a href="https://discordapp.com/users/657323162219839519/">@paladin4ick</a></li>
-</ul>
+Let's build something amazing together!
