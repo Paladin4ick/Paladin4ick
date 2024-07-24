@@ -1,5 +1,3 @@
-# Welcome to Paladin4ick's Corner! 🌟
-
 <h1 align="center">
   <a href="https://t.me/paladin4ick" target="_blank">(っ◔◡◔)っ ♥ Paladin4ick ♥</a>
   <img src="https://media1.tenor.com/m/YHAcUxXBSyQAAAAC/snek-snake-dance.gif" height="170"/>
@@ -9,8 +7,6 @@
 
 I am a passionate developer with expertise in Python and JavaScript. My enthusiasm lies in crafting innovative solutions that not only enhance user experience but also streamline processes. 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paladin4ick)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paladin4ick&show_icons=true&theme=radical)
 
 ## 🚀 What I Do
 
@@ -21,7 +17,13 @@ I am a passionate developer with expertise in Python and JavaScript. My enthusia
 
 ## 🌟 Active Projects
 
-- [Mir-Tankov-News-Parser](https://github.com/Paladin4ick/Mir-Tankov-News-Parser)
+[![Readme Card](https://github.com/Paladin4ick/Mir-Tankov-News-Parser)
+
+---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paladin4ick)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paladin4ick&show_icons=true&theme=radical)
+
+---
 
 ## 📬 Get in Touch
 
